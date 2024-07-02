@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <nav className="bg-white shadow w-full fixed top-0 left-0 z-10">
+      {/* <nav className="bg-white shadow w-full fixed top-0 left-0 z-10">
         <div className="container mx-auto px-4">
           <div className="flex justify-between h-16">
             <div className="flex">
@@ -26,7 +26,7 @@ function App() {
             </div>
           </div>
         </div>
-      </nav>
+      </nav> */}
       <div className="flex justify-between h-screen w-full">
         <div className="w-7/12 flex items-center justify-center">
           <div className="p-10 rounded-lg shadow-lg max-w-md">
